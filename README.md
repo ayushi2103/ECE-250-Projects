@@ -1,5 +1,5 @@
 # ECE-250-Projects
-Course on algorithms and data structures for Electrical and Computer Engineering students.
+Course on algorithms and data structures for Electrical and Computer Engineering students at University of Waterloo.
 
 Project 0: A C++ program that manages a play list of songs using a dynamic array
 Project 1: A program to implement a dynamic deque data structure
